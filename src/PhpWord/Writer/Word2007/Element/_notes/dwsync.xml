@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractElement.php" server="ramiro-jvs.15thcircuit.com//var/www/" local="131842777389076426" remote="131842778780000000" Dst="2" />
+<file name="Bookmark.php" server="ramiro-jvs.15thcircuit.com//var/www/" local="131842777389076426" remote="131842778780000000" Dst="2" />
+<file name="Chart.php" server="ramiro-jvs.15thcircuit.com//var/www/" local="131842777389076426" remote="131842778780000000" Dst="2" />
+<file name="CheckBox.php" server="ramiro-jvs.15thcircuit.com//var/www/" local="131842777389076426" remote="131842778780000000" Dst="2" />
+<file name="Container.php" server="ramiro-jvs.15thcircuit.com//var/www/" local="131842777389076426" remote="131842778780000000" Dst="2" />
+<file name="Endnote.php" server="ramiro-jvs.15thcircuit.com//var/www/" local="131842777389076426" remote="131842778780000000" Dst="2" />
+<file name="Field.php" server="ramiro-jvs.15thcircuit.com//var/www/" local="131842777389076426" remote="131842778780000000" Dst="2" />
+<file name="Footnote.php" server="ramiro-jvs.15thcircuit.com//var/www/" local="131842777389076426" remote="131842778780000000" Dst="2" />
+<file name="FormField.php" server="ramiro-jvs.15thcircuit.com//var/www/" local="131842777389076426" remote="131842778780000000" Dst="2" />
+<file name="Image.php" server="ramiro-jvs.15thcircuit.com//var/www/" local="131842777389076426" remote="131842778780000000" Dst="2" />
+<file name="Line.php" server="ramiro-jvs.15thcircuit.com//var/www/" local="131842777389076426" remote="131842778780000000" Dst="2" />
+<file name="Link.php" server="ramiro-jvs.15thcircuit.com//var/www/" local="131842777389076426" remote="131842778780000000" Dst="2" />
+<file name="ListItem.php" server="ramiro-jvs.15thcircuit.com//var/www/" local="131842777389076426" remote="131842778780000000" Dst="2" />
+<file name="ListItemRun.php" server="ramiro-jvs.15thcircuit.com//var/www/" local="131842777389076426" remote="131842778780000000" Dst="2" />
+<file name="OLEObject.php" server="ramiro-jvs.15thcircuit.com//var/www/" local="131842777389076426" remote="131842778780000000" Dst="2" />
+<file name="PageBreak.php" server="ramiro-jvs.15thcircuit.com//var/www/" local="131842777389076426" remote="131842778780000000" Dst="2" />
+<file name="ParagraphAlignment.php" server="ramiro-jvs.15thcircuit.com//var/www/" local="131842777389076426" remote="131842778780000000" Dst="2" />
+<file name="PreserveText.php" server="ramiro-jvs.15thcircuit.com//var/www/" local="131842777389076426" remote="131842778780000000" Dst="2" />
+<file name="SDT.php" server="ramiro-jvs.15thcircuit.com//var/www/" local="131842777389076426" remote="131842778780000000" Dst="2" />
+<file name="Shape.php" server="ramiro-jvs.15thcircuit.com//var/www/" local="131842777389076426" remote="131842778780000000" Dst="2" />
+<file name="Table.php" server="ramiro-jvs.15thcircuit.com//var/www/" local="131842777389076426" remote="131842778780000000" Dst="2" />
+<file name="TableAlignment.php" server="ramiro-jvs.15thcircuit.com//var/www/" local="131842777389076426" remote="131842778780000000" Dst="2" />
+<file name="Text.php" server="ramiro-jvs.15thcircuit.com//var/www/" local="131842777389076426" remote="131842778780000000" Dst="2" />
+<file name="TextBox.php" server="ramiro-jvs.15thcircuit.com//var/www/" local="131842777389076426" remote="131842778780000000" Dst="2" />
+<file name="TextBreak.php" server="ramiro-jvs.15thcircuit.com//var/www/" local="131842777389076426" remote="131842778780000000" Dst="2" />
+<file name="TextRun.php" server="ramiro-jvs.15thcircuit.com//var/www/" local="131842777389076426" remote="131842778780000000" Dst="2" />
+<file name="Title.php" server="ramiro-jvs.15thcircuit.com//var/www/" local="131842777389076426" remote="131842778780000000" Dst="2" />
+<file name="TOC.php" server="ramiro-jvs.15thcircuit.com//var/www/" local="131842777389076426" remote="131842778780000000" Dst="2" />
+</dwsync>
